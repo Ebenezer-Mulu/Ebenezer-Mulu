@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ebenmulu" target="blank"><img src="https://img.shields.io/twitter/follow/@ebenmulu?logo=twitter&style=for-the-badge" alt="@ebenmulu" /></a> </p>
 
-- 🔭 I’m currently working on **store Management**
 
-- 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **react and react frameworks**
 
